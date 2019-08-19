@@ -1,0 +1,147 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.menu ul{
+    display: flex;
+    list-style: none;
+}
+.menu ul li a{
+    color: black;
+    padding-right: 10px;
+}
+.intro{
+    background: #faf9ff;
+}
+.intro-text{
+    padding-top: 130px;
+}
+.about{
+    padding-top: 20px;
+}
+.services-header{
+    padding-top: 100px;
+}
+.services-header h1{
+    text-align: center;
+}
+.services-header p{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.services-section{
+    padding-bottom: 50px;
+}
+.services-section h4{
+    text-align: center;
+}
+.services-section img{
+    padding-left: 135px;
+}
+.counter{
+    background: #72a8fe;
+    padding: 100px 0;
+}
+.counter-texts h3{
+    font-size: 40px;
+    text-align: center;
+    color: #faf9ff;
+}
+.counter-texts p{
+    text-align: center;
+    font-size: 15px;
+    color: #faf9ff;
+}
+.projects-title{
+    padding: 100px 0;
+}
+.projects-title h1{
+    text-align: center;
+}
+.projects-title p{
+    text-align: center;
+}
+.projects-images h3{
+    text-align: center;
+    padding: 10px 0;
+}
+.projects-images p{
+    text-align: center;
+}
+.testimonial-area{
+    background: #faf9ff;
+    padding-bottom: 100px;
+}
+.testimonial-title{
+    padding: 100px 0;
+}
+.testimonial-title h1{
+    text-align: center;
+}
+.testimonial-title p{
+    text-align: center;
+}
+.price-title{
+    padding: 100px 0;
+}
+.price-title h1{
+    text-align: center;
+}
+.price-title p{
+    text-align: center;
+}
+.price-chapter{
+    background: #faf9ff;
+    margin-bottom: 100px;
+}
+.price-chapter h3{
+    text-align: center;
+}
+.price-chapter h5{
+    text-align: center;
+}
+.price-chapter h6{
+    text-align: center;
+    color: #a09fa5;
+}
+.price-chapter p{
+    text-align: center;
+    border-top: 1px solid #c5c4c7;
+}
+.price-chapter img{
+    padding-left: 40px;
+}
+.recent-area{
+    background: #faf9ff;
+}
+.recent-title{
+    padding: 100px 0;
+}
+.recent-title h1{
+    text-align: center;
+}
+.recent-title p{
+    text-align: center;
+}
+.recent-images{
+    padding-bottom: 100px;
+}
+.brands-area{
+    padding: 100px 0;
+    background: #72a8fe;
+}
+.footer-area{
+    padding: 100px 0;
+    background: #000000;
+}
+.footer-area h5{
+    color: #faf9ff;
+}
+.footer-area p{
+    color: #999999;
+}
